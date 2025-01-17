@@ -29,7 +29,7 @@ function alterarStatus(id) {
         quantidade++;
     }
 } else {
-    alert('Processo interrompido');
+    alert('Ação interrompida');
 }
 jogosAlugados();
 }
